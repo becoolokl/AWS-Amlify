@@ -1,2 +1,2 @@
-# AWS-Amlify
+# AWS-Amplify-Test
 AWS Test
